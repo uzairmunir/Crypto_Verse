@@ -1,0 +1,39 @@
+.crypto-details-container {
+  padding: 1rem;
+  text-align: center;
+}
+.main-title {
+  padding: 2rem 0;
+  text-align: center;
+  font-weight: bold !important;
+}
+.title {
+  color: rgb(65, 107, 248) !important;
+}
+.text {
+  font-size: 1.1rem;
+  color: #333 !important;
+}
+.stats {
+  text-align: left;
+  padding: 1rem 0.5rem;
+}
+.stats-data {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 0.5px dotted gray;
+  align-items: center;
+  padding: 0.5rem;
+}
+.description-container,
+.links-container {
+  text-align: left;
+  padding: 0 1rem;
+}
+.links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px dotted gray;
+  color: blue;
+}
